@@ -1,4 +1,4 @@
-
+Alfred for macOS automatic Module: network-speed & memory-optimization offers the most advanced Alfred for macOS module, with network-speed and memory-optimization. Ideal for
 
 
 
